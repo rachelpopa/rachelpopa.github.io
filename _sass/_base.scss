@@ -25,7 +25,12 @@ body {
     font-kerning: normal;
 }
 
-
+iframe {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

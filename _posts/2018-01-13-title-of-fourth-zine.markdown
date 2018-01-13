@@ -3,5 +3,7 @@ title:  "May 2018"
 cover: "/assets/img/cover4.jpg"
 date:   2018-01-09 21:47:30 -0600
 categories: Feb 2018
+layout: pdf
+permalink: /zine/may2018/
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<iframe src="/assets/img/zine1.pdf" width="100%" height="100%"></iframe>
