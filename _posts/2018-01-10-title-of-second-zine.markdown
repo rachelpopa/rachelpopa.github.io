@@ -6,4 +6,4 @@ categories: Feb 2018
 layout: pdf
 permalink: /zine/mar2018/
 ---
-<iframe src="/assets/img/zine1.pdf" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/14sj-g0UWhuxc-g7F2ZppAeNQOf4jSLRu/preview" width="100%" height="100%"></iframe>
