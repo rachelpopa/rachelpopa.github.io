@@ -4,8 +4,6 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -18,6 +16,10 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <ul class="card-list">
+    {% for card in site.cards %}
+      <span>Card TEST</span>
+    {% endfor %}
+  </ul>
 
 </div>

@@ -14,7 +14,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dejavisite.ca" # the base hostname & protocol for your site
 twitter_username: deja_otters
-github_username:  rachelpopa
+facebook_username:  deja-visite
+instagram_username:  deja-visite
 
 # Build settings
 markdown: kramdown
