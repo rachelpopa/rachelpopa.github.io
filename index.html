@@ -4,22 +4,12 @@ layout: default
 
 <div class="home">
 
-  <ul class="post-list">
+  <div class="post-grid">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+      <div class="card">
+        <img src="{{ post.cover | absolute_url }}" alt="Cover" style="width:230px; height:330px">
+      </div>
     {% endfor %}
-  </ul>
-
-  <ul class="card-list">
-    {% for card in site.cards %}
-      <span>Card TEST</span>
-    {% endfor %}
-  </ul>
+  </div>
 
 </div>
