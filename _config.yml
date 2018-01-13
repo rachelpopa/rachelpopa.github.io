@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Deja-Visite is a monthly zine with a focus on personal and 
   scholarly interest pieces by women from Western Canada.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dejavisite.ca" # the base hostname & protocol for your site
+url: "https://rachelpopa.github.io/" # the base hostname & protocol for your site
 twitter_username: deja_otters
 facebook_username:  deja-visite
 instagram_username:  deja-visite
