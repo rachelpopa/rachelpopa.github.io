@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About The Zine
+menutitle: About
 permalink: /about/
 ---
 
