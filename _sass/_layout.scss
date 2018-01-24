@@ -319,3 +319,30 @@
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
+
+.bio-container {
+    clear: both;
+    display: block;
+    width: 100%;
+}
+
+.bio-avatar {
+    width: 40%;
+    float: left; 
+    height: 100%;
+}
+
+.bio-title {
+    font-size: 38px;
+    letter-spacing: -1px;
+    line-height: 1;
+}
+
+.bio-avatar img{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.bio-content {
+    width: 60%;
+    float: right;
+}

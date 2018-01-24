@@ -7,7 +7,7 @@ permalink: /who/
 
 <div class="bio-container">
     <div class="bio-avatar">
-        <img src="">
+        <img src="/assets/img/megan.jpg">
     </div>
     <div class="bio-content">
         <h2 class="bio-title" >Megan Nygrych, Editor in Chief</h2>
@@ -19,7 +19,7 @@ permalink: /who/
 
 <div class="bio-container">
     <div class="bio-avatar">
-        <img src="">
+        <img src="/assets/img/ariadne.jpg">
     </div>
     <div class="bio-content">
         <h2 class="bio-title">Ariadne Bissett, Associate Editor</h2>
@@ -29,7 +29,7 @@ permalink: /who/
 
 <div class="bio-container">
     <div class="bio-avatar">
-        <img src="">
+        <img src="/assets/img/jessica.jpg">
     </div>
     <div class="bio-content">
         <h2 class="bio-title">Jessica Mitten-Moore, Communications Director</h2>
@@ -44,19 +44,21 @@ permalink: /who/
     </div>
     <div class="bio-content">
         <h2 class="bio-title">Jocelyn Anderson, Art Director</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+        <p>Jocelyn Anderson has always been interested in the arts. Whether it was visual arts, theatre, or music, if there was an opportunity to get creative she was in. After finishing her Bachelor of Music with a concentration in Trumpet at McGill University, she moved back home to Saskatchewan to figure out exactly what a job in the arts might look like. After some searching, she settled on Arts and Culture non-profit administration so she could help bring programing to as many people as possible and she currently works as an office assistant at Theatre Saskatchewan.</p>
+        <p>On top of her work to make sure everyone can enjoy the arts, Jocelyn has been known to enjoy making some art herself. She has been known to paint the ocasional picture (or draw… it depends on her mood), get up on stage and sing for theatrical productions, help paint and construct sets for said theatre productions and do all sorts of crafty things. She is also a huge book-worm and tabletop gamer, playing games like Dungeons and Dragons, Edge of Empire (Star Wars RPG) and stacks of games she has kickstarted with themes ranging from superheroes to alien invasion to pirates.</p>
+        <p>Jocelyn also finds herself learning quite a bit about hunting and fishing and snowmobiling and other outdoorsy endeavours from her husband and his friends, who call themselves Team Junk. At times she feels like a geeky ambassador to the land of the outdoorsman and is interested in writing about both her artsy and geeky pursuits and about the adventures of Team Junk.</p>
+
     </div>
 </div>
 
 <div class="bio-container">
     <div class="bio-avatar">
-        <img src="/assets/img/grouse.jpg">
-        Photo by <a href="http://foter.com/author/2219a5">Wildreturn</a> on <a href="http://foter.com/re/3e5319">Foter.com</a> / <a href="http://creativecommons.org/licenses/by/2.0/">CC BY</a>
+        <img src="/assets/img/rachel.jpg">
     </div>
     <div class="bio-content">
         <h2 class="bio-title">Rachel Popa, Web Developer</h2>
-        <p>Rachel has worked as a software developer in Regina, Saskatchewan for five years.  She obtained her Bachelor of Science in Computer Science from the University of Regina in 2013.  Currently, she is employed by Farm Credit Canada where she works on their lending applications.  Rachel’s professional interests include mobile app development, AR in real-world applications, and home automation.</p>
-        <p>In writing for Deja-Visite she hopes to promote software development in Saskatchewan by showcasing products that are made within the province.  Additionally, her work will focus on learning and professional development. She also maintains the website.</p>
-        <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two small dogs.  She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer.  Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.</p>
+        <p>Rachel Popa has worked as a software developer in Regina, Saskatchewan for five years. She obtained her Bachelor of Science in Computer Science from the University of Regina in 2013. Currently, she is employed by Farm Credit Canada where she works on their lending applications. Rachel’s professional interests include mobile app development, AR in real-world applications, and home automation.</p>
+        <p>In writing for Deja-Visite she hopes to promote software development in Saskatchewan by showcasing products that are made within the province. Additionally, her work will focus on learning and professional development. She also maintains the website.</p>
+        <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two small dogs. She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer. Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.</p>
     </div>
 </div>
