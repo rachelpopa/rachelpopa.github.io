@@ -26,3 +26,8 @@ defaults:
       path: "assets/img"
     values:
       image: true
+  - scope:
+      path: "assets/fonts"
+    values:
+      font: true
+

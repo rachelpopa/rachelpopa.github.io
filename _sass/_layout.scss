@@ -1,3 +1,12 @@
+
+@font-face {
+    font-family: Entebbe;
+    src: url(/assets/fonts/entebbe.tff);
+    // src: url(asset_path("entebbe.tff")) format('tff');
+    // src: "{{'/assets/font/entebbe.tff' | prepend: site.baseurl }}";
+    // src: url("../deja-visite/assets/font/entebbe.ttf") format('truetype');
+
+}
 /**
  * Site header
  */
@@ -11,6 +20,7 @@
 }
 
 .site-title {
+    font-family: "Entebbe";
     font-size: 26px;
     font-weight: 300;
     line-height: 56px;
