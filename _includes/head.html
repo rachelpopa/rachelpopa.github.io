@@ -14,14 +14,14 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script>
         $(document).ready(function () {
-            if ($(".bio-content").css("display") == "none") {
-                $(".bio-avatar").click(function () {
+            $(".bio-avatar").click(function () {
+                if ($(".bio-content").css("display") == "none") {
                     $(".bio-content").css("display", "none");
                     $(".bio-content").css("width", "55%");
                     $(this).siblings(".bio-content").css("display", "inline");
                     $(this).siblings(".bio-content").css("width", "100%");
-                });
-            }
+                }
+            });
         });
     </script>
 </head>
