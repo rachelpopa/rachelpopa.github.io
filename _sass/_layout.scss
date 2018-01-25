@@ -30,14 +30,15 @@
         color: $grey-color-dark;
     }
     position: absolute;
-    top: 18px;
+    top: 0.65em;
 }
 
 .site-icon {
     position: absolute;
     height: 55px;
     // bottom: 19px;
-    left: 178px;
+    // left: 178px;
+    left: 11em;
 
     -webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 3s; /* Firefox < 16 */
