@@ -414,8 +414,13 @@
 
 .bio-content {
     width: 55%;
-    @include media-query($on-palm) {
+
+    @include media-query($on-palm) {   
         display: none;
+    }
+
+    @media (min-width: 800px) {  
+        display: inline;
     }
 }
 
