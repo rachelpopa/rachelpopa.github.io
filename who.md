@@ -60,7 +60,7 @@ permalink: /who/
     <div class="bio-content right">
         <p>Rachel Popa has worked as a software developer in Regina, Saskatchewan for five years. She obtained her Bachelor of Science in Computer Science from the University of Regina in 2013. Currently, she is employed by Farm Credit Canada where she works on their lending applications. Rachel’s professional interests include mobile app development, AR in real-world applications, and home automation.</p>
         <p>In writing for Deja-Visite she hopes to promote software development in Saskatchewan by showcasing products that are made within the province. Additionally, Rachel’s work will focus on self-guided learning and professional growth. She also maintains the website.</p>
-        <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two small dogs. She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer. Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.
+        <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two little dogs. She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer. Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.
 </p>
     </div>
 </div>

@@ -6,7 +6,7 @@
     border-top: 5px solid $latte-color-dark;
     border-bottom: 1px solid $latte-color-light;
     height: 4em;
-    
+
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -17,6 +17,8 @@
 
 .site-title-box {
     position: relative;
+    height: 20px;
+    width: 200px;
 }
 
 .site-title {
