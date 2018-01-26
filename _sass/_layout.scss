@@ -43,6 +43,13 @@
     position: absolute;
     height: 3.45em;
     left: 11em;
+    /* Chrome 29+ */
+    @include media-query($on-palm) {
+        @media screen and (-webkit-min-device-pixel-ratio:0)
+            and (min-resolution:.001dpcm) {
+                height: 3.44em; 
+        }
+    }
 }
 
 @keyframes fadein {
