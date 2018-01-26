@@ -17,7 +17,6 @@
 
 .site-title-box {
     position: relative;
-    height: 20px;
     width: 200px;
 }
 
@@ -30,26 +29,28 @@
     margin-bottom: 0;
     float: left;
     color: $brand-color;
+    height: 3.45em;
 
     &,
     &:visited {
         color: $brand-color;
     }
     position: absolute;
-    top: 0.67em;
+    top: 0.68em;
+    left: 0.01em;
+
+    /* Chrome 29+ */
+    @include media-query($on-palm) {
+        @supports (-webkit-appearance: none) {
+            top: 0.735em;
+        }
+    }
 }
 
 .site-icon {
     position: absolute;
     height: 3.45em;
     left: 11em;
-    /* Chrome 29+ */
-    @include media-query($on-palm) {
-        @media screen and (-webkit-min-device-pixel-ratio:0)
-            and (min-resolution:.001dpcm) {
-                height: 3.44em; 
-        }
-    }
 }
 
 @keyframes fadein {
