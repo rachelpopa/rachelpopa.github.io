@@ -418,6 +418,7 @@
 
     @include media-query($on-palm) {   
         display: none;
+        color: black;
     }
 
     @media (min-width: 800px) {  

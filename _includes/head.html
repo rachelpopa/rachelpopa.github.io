@@ -15,11 +15,21 @@
     <script>
         $(document).ready(function () {
             $(".bio-avatar").click(function () {
-                if ($(".bio-content").css("display") == "none") {
+                if ($(".bio-content").css("color") == "rgb(0, 0, 0)") {
                     $(".bio-content").css("display", "none");
                     $(".bio-content").css("width", "55%");
                     $(this).siblings(".bio-content").css("display", "inline");
                     $(this).siblings(".bio-content").css("width", "100%");
+                }
+            });
+
+            $( window ).resize(function() {
+                if ($(".bio-content").css("color") == "rgb(0, 0, 0)") {
+                    $(".bio-content").css("display", "none");
+                    $(".bio-content").css("width", "100%");
+                } else {
+                    $(".bio-content").css("display", "inline");
+                    $(".bio-content").css("width", "55%");
                 }
             });
         });
