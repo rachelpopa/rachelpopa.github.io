@@ -430,11 +430,14 @@
         box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.459);
     }
 
-    .bio-title-box a:hover {
-        color: $latte-color;
+    .bio-title-box a {
         cursor: hand;
         cursor: pointer;
         opacity: .9;
+    }
+
+    .bio-title-box a:hover {
+        color: $latte-color;
     }
 
     .bio-title-box {
