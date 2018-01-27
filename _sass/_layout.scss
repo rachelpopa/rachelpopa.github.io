@@ -15,6 +15,10 @@
     text-decoration:  none;
 }
 
+.bio-title-box a {
+    text-decoration:  none;
+}
+
 .site-title-box {
     position: relative;
     width: 200px;
@@ -390,7 +394,11 @@
     width: 40%;
     height: 100%;
     @include media-query($on-palm) {
-        width: 100%;
+        width:90%; 
+        margin-left: 5%;
+        margin-right: 5%;
+        cursor: hand;
+        cursor: pointer;
     }
     margin-bottom: 30px;
 }
@@ -406,16 +414,37 @@
 .bio-title {    
     padding-top: 50px;
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 1;        
 }
 
 .bio-avatar img{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
+.bio-title-box a {
+    cursor: text;
+}
+
 @include media-query($on-palm) {
     .bio-avatar img:hover, .bio-avatar img:active {
         box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.459);
+    }
+
+    .bio-title-box a:hover {
+        box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.459);
+        color: $latte-color;
+        cursor: hand;
+        cursor: pointer;
+        opacity: .9;
+    }
+
+    .bio-title-box {
+        width: 90%;
+        margin: auto;
+        text-align: center;
+        .bio-title {
+            float: none;
+        }
     }
 }
 
