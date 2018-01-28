@@ -386,7 +386,7 @@
 
     @include media-query($on-palm) {   
         display: none;
-        color: black;
+        color: rgb(0, 0, 0);
     }
 
     @media (min-width: 800px) {  
