@@ -40,21 +40,25 @@
 
             $("#hamburger").click(function(){
                 if($("#hamburger").hasClass("is-active")){
-                    $(this).removeClass("is-active");
                     closeNav();
                 } else{
-                    $(this).addClass("is-active");
                     openNav();
                 }
             });
 
-            var openNav = function() {
+            $(window).scroll(function() {
+                closeNav();
+            });
+
+            var openNav = function() {                    
+                $("#hamburger").addClass("is-active");
                 $(".trigger").css("opacity", "1");
                 $(".trigger").css("visibility", "visible");            
                 $(".trigger").css("display", "block");            
             }
 
             var closeNav = function() {
+                $("#hamburger").removeClass("is-active");
                 $(".trigger").css("opacity", "0");
                 $(".trigger").css("visibility", "none");         
                 $(".trigger").css("display", "none");        
