@@ -401,3 +401,35 @@
 .bio-content.left {
     float: left; 
 }
+
+.timer-box {
+    border-style: solid;
+    border-width: 5px;
+    border-color: $latte-color-light;    
+    border-radius: 200px;
+    display: table;
+}
+
+
+#countdown{
+	// font-family: sans-serif;
+	color: $latte-color-light;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+
+#countdown > div{
+	padding: 10px;
+	border-radius: 3px;
+	background: $brand-color-light;
+	display: inline-block;
+}
+
+#countdown div > span{
+	padding: 15px;
+	border-radius: 3px;
+	background: $brand-color;
+	display: inline-block;
+}
