@@ -395,6 +395,11 @@
     }
 }
 
+.bio-content .selected {
+    display: inline;
+    width: 100%;
+}
+
 .bio-content.right {
     float: right; 
 }
