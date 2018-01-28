@@ -15,34 +15,42 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script>
         $(document).ready(function () {
+            function isMobileWidth() {
+                return $('#mobile-indicator').is(':visible');
+            }
+
             $(".bio-avatar, .bio-title-box").click(function () {
-                if ($(".bio-content").css("color") == "rgb(0, 0, 0)") {
+                if ($(window).width() < 600) {
                     $(".bio-content").css("display", "none");
                     $(".bio-content").css("width", "55%");
                     $(".bio-content").removeClass("selected");
-                    $(this).siblings(".bio-content").css("display", "inline");
-                    $(this).siblings(".bio-content").css("width", "100%");
-                    $(this).siblings.addClass("selected");
                     $('html, body').animate({
                         scrollTop: ($(this).offset().top)
                     },300);
+                    $(this).siblings(".bio-content").css("display", "inline");
+                    $(this).siblings(".bio-content").css("width", "100%");
+                    $(this).siblings.addClass("selected");
                 }
             });
 
-            $( window ).resize(function() {
-                //On mobile
-                if ($(".bio-content").css("color") == "rgb(0, 0, 0)") {
+            var bioTransformation = function() {
+                 //On mobile
+                 if (isMobileWidth()) {
                     $(".bio-content").css("display", "none");
                     $(".bio-content").css("width", "100%");
                     closeNav();
                 }
                 //On laptop 
-                else if($(".bio-content").css("color") == "rgb(0, 1, 0)") {
-                    $(".page-link").css("display", "inline");
+                else {
                     $(".bio-content").css("display", "inline");
                     $(".bio-content").css("width", "55%");
                 }
+            }
+
+            $( window ).resize(function() {
+                bioTransformation();
             });
+
 
             $("#hamburger").click(function(){
                 if($("#hamburger").hasClass("is-active")){
@@ -108,6 +116,8 @@
                 updateClock();
                 var timeinterval = setInterval(updateClock, 1000);
             }
+
+            bioTransformation();
 
             var deadline = new Date("February 13, 2018 00:00:00");
             initializeClock('countdown', deadline);

@@ -382,17 +382,6 @@
 
 .bio-content {
     width: 55%;
-    color: rgb(0, 1, 0);
-
-    @include media-query($on-palm) {   
-        display: none;
-        color: rgb(0, 0, 0);
-    }
-
-    @media (min-width: 800px) {  
-        display: inline;
-        color: rgb(0, 1, 0);
-    }
 }
 
 .bio-content .selected {
@@ -434,5 +423,15 @@
 	display: inline-block;
     @include media-query($on-palm) {   
         padding: 10px;
+    }
+}
+
+#mobile-indicator {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    #mobile-indicator {
+        display: block;
     }
 }
