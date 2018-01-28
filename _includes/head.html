@@ -28,14 +28,18 @@
             });
 
             $( window ).resize(function() {
+                //On mobile
                 if ($(".bio-content").css("color") == "rgb(0, 0, 0)") {
                     $(".bio-content").css("display", "none");
                     $(".bio-content").css("width", "100%");
-                } else {
+                    closeNav();
+                }
+                //On laptop 
+                else {
+                    $(".page-link").css("display", "inline");
                     $(".bio-content").css("display", "inline");
                     $(".bio-content").css("width", "55%");
                 }
-                $("#hamburger").removeClass("is-active");
             });
 
             $("#hamburger").click(function(){
@@ -50,18 +54,18 @@
                 closeNav();
             });
 
-            var openNav = function() {                    
-                $("#hamburger").addClass("is-active");
-                $(".trigger").css("opacity", "1");
-                $(".trigger").css("visibility", "visible");            
-                $(".trigger").css("display", "block");            
+            var openNav = function() {    
+                if(!$("#hamburger").hasClass("is-active")) {
+                    $("#hamburger").addClass("is-active");
+                    $(".trigger").css("display", "block");      
+                }                    
             }
 
             var closeNav = function() {
-                $("#hamburger").removeClass("is-active");
-                $(".trigger").css("opacity", "0");
-                $(".trigger").css("visibility", "none");         
-                $(".trigger").css("display", "none");        
+                if($("#hamburger").hasClass("is-active")) {
+                    $("#hamburger").removeClass("is-active");
+                    $(".trigger").css("display", "none");   
+                }     
             }
         });
 
