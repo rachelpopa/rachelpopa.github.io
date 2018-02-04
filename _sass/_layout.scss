@@ -47,13 +47,6 @@
     position: absolute;
     top: 0.68em;
     left: 0.01em;
-
-    /* Chrome 29+ */
-    @include media-query($on-palm) {
-        @supports (-webkit-appearance: none) {
-            top: 0.735em;
-        }
-    }
 }
 
 .site-icon {
