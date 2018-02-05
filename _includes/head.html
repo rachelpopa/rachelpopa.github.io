@@ -15,12 +15,24 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script>
         $(document).ready(function () {
+
+            var currWidth = null;
+
             function isMobileWidth() {
                 return $('#mobile-indicator').is(':visible');
             }
 
+            function widthChanged(){
+                if(!currWidth || currWidth != $(window).width()){
+                    currWidth = $(window).width();
+                    return true;
+                } else {
+                    return false;
+                }
+            }
+
             $(".bio-avatar, .bio-title-box").click(function () {
-                if ($(window).width() < 600) {
+                if (isMobileWidth()) {
                     $(".bio-content").css("display", "none");
                     $(".bio-content").css("width", "55%");
                     $(".bio-content").removeClass("selected");
@@ -29,19 +41,19 @@
                     },300);
                     $(this).siblings(".bio-content").css("display", "inline");
                     $(this).siblings(".bio-content").css("width", "100%");
-                    $(this).siblings.addClass("selected");
+                    $(this).siblings(".bio-content").addClass("selected");
                 }
             });
 
             var bioTransformation = function() {
                  //On mobile
-                 if (isMobileWidth()) {
+                 if (isMobileWidth() && widthChanged()) {       
                     $(".bio-content").css("display", "none");
                     $(".bio-content").css("width", "100%");
                     closeNav();
                 }
                 //On laptop 
-                else {
+                else if(!isMobileWidth()) {            
                     $(".bio-content").css("display", "inline");
                     $(".bio-content").css("width", "55%");
                 }
