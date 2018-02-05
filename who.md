@@ -6,7 +6,7 @@ permalink: /who/
 ---
 
 <div class="bio-container">
-    <div class="bio-title-box"><a class="bio-title" ><h3 >Megan Nygrych, Editor in Chief</h3></a></div>
+    <div class="bio-title-box"><a class="bio-title" ><h3 >Megan Negrych, Editor in Chief</h3></a></div>
     <div class="bio-avatar left">
         <img src="/assets/img/megan.jpg">
     </div>
