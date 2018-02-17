@@ -318,6 +318,11 @@
     width: 100%;
 }
 
+.bio-bar {
+    border-top: 1px solid $latte-color-light;
+    margin-bottom: 10px;
+}
+
 .bio-avatar {
     width: 40%;
     height: 100%;
@@ -340,7 +345,8 @@
 }
 
 .bio-title {    
-    padding-top: 50px;
+    padding-top: 50px;    
+    margin-top: 50px;
     letter-spacing: -1px;
     line-height: 1;        
 }

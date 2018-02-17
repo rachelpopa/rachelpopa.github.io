@@ -7,6 +7,7 @@ permalink: /who/
 
 <div class="bio-container">
     <div class="bio-title-box"><a class="bio-title" ><h3 >Megan Negrych, Editor in Chief</h3></a></div>
+    <hr class="bio-bar">
     <div class="bio-avatar left">
         <img src="/assets/img/megan.jpg">
     </div>
@@ -20,6 +21,7 @@ permalink: /who/
 
 <div class="bio-container">
     <div class="bio-title-box"><a  class="bio-title" ><h3 >Ariadne Bissett, Associate Editor</h3></a></div>
+    <hr class="bio-bar">
     <div class="bio-avatar right">
         <img src="/assets/img/ariadne.jpg">
     </div>
@@ -30,6 +32,7 @@ permalink: /who/
 
 <div class="bio-container">
     <div class="bio-title-box"><a  class="bio-title" ><h3 >Jessica Mitten-Moore, Communications Director</h3></a></div>
+    <hr class="bio-bar">
     <div class="bio-avatar left">
         <img src="/assets/img/jessica.jpg">
     </div>
@@ -41,6 +44,7 @@ permalink: /who/
 
 <div class="bio-container">
     <div class="bio-title-box"><a  class="bio-title" ><h3 >Jocelyn Anderson, Art Director</h3></a></div>
+    <hr class="bio-bar">
     <div class="bio-avatar right selected">
         <img src="/assets/img/jocelyn.jpg">
     </div>
@@ -54,6 +58,7 @@ permalink: /who/
 
 <div class="bio-container">
     <div class="bio-title-box"><a  class="bio-title" ><h3 >Rachel Popa, Web Developer</h3></a></div>
+    <hr class="bio-bar">
     <div class="bio-avatar left">
         <img src="/assets/img/rachel.jpg">
     </div>
