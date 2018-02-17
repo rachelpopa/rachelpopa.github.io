@@ -1,6 +1,6 @@
 ---
 title:  "Feb 2018"
-cover: "/assets/img/cover_feb_2018.png"
+cover: "http://gdurl.com/nhoq"
 date:   2018-01-09 21:47:30 -0600
 categories: Feb 2018
 layout: pdf

@@ -9,7 +9,7 @@ permalink: /who/
     <div class="bio-title-box"><a class="bio-title" ><h3 >Megan Negrych, Editor in Chief</h3></a></div>
     <hr class="bio-bar">
     <div class="bio-avatar left">
-        <img src="/assets/img/megan.jpg">
+        <img src="http://gdurl.com/ggHO">
     </div>
     <div class="bio-content right selected">
         <p>Megan Negrych obtained her B.A. in Japanese language with a minor in History in 2012, paired with a BA in Theatre Arts. She continued on and was awarded her MA in History in 2014 from the University of Regina. Her research interests include: Shakespeare and adaptation; memory, trauma, and the legacy of the war in Japan; myth and folklore; and the social and cultural history of horror in Japanese pop culture.</p>
@@ -23,7 +23,7 @@ permalink: /who/
     <div class="bio-title-box"><a  class="bio-title" ><h3 >Ariadne Bissett, Associate Editor</h3></a></div>
     <hr class="bio-bar">
     <div class="bio-avatar right">
-        <img src="/assets/img/ariadne.jpg">
+        <img src="http://gdurl.com/7ptf">
     </div>
     <div class="bio-content left selected">
         <p>Ariadne Bissett hails from sunny Regina, Saskatchewan. During her misspent youth she lived in Winnipeg, Manitoba, and Trier, Germany, but can’t say that she is still fluent in the language of either. She is currently a stay-at-home mom, is formerly a civil servant, but has mostly been a student. She  earned her bachelor’s degree in Anthropology with a Minor in History at the University of Regina.  Ariadne’s blinding passions include her longtime membership in Regina’s Halcyon Chamber Choir. She has been involved with Halcyon off and on since her high school days, (which makes her an OT VII level member at least). She also loves musical theatre to an embarrassing degree. If one were to hum the opening lines to any number from Wicked in her presence, there would be a full musical situation within minutes.  She likes writing science fiction, and binging science fiction pop culture. Recently Ariadne has gotten into making and researching her own probiotic foods, and is interested in writing about the history of fermentation. Her kitchen-speriments may make an appearance in future issues, if she survives... </p>
@@ -34,7 +34,7 @@ permalink: /who/
     <div class="bio-title-box"><a  class="bio-title" ><h3 >Jessica Mitten-Moore, Communications Director</h3></a></div>
     <hr class="bio-bar">
     <div class="bio-avatar left">
-        <img src="/assets/img/jessica.jpg">
+        <img src="http://gdurl.com/GoRr">
     </div>
     <div class="bio-content right selected">
         <p>Jessica Mitten-Moore adores travelling and exploring the world but when she is not travelling she works and plays in Regina, Saskatchewan. Jessica is passionate about supporting local arts and businesses and loves theatre and music of all kinds. She feels truly in her element while listening to live music. Jessica also enjoys all types of food and whilst travelling tries to discover as many new cuisines as possible. When Jessica has free time at home she likes to spend it in the company of her family and friends or playing board and video games.</p>
@@ -46,7 +46,7 @@ permalink: /who/
     <div class="bio-title-box"><a  class="bio-title" ><h3 >Jocelyn Anderson, Art Director</h3></a></div>
     <hr class="bio-bar">
     <div class="bio-avatar right selected">
-        <img src="/assets/img/jocelyn.jpg">
+        <img src="http://gdurl.com/VBmH">
     </div>
     <div class="bio-content left selected">
         <p>Jocelyn Anderson has always been interested in the arts. Whether it was visual arts, theatre, or music, if there was an opportunity to do something creative Jocelyn was there trying it out. After finishing her Bachelor of Music, with a concentration in Trumpet at McGill University, Jocelyn moved back home to Saskatchewan to figure out exactly what a job in the arts might look like. After some searching, she settled on Arts and Culture non-profit administration so she could help bring arts programing to as many people as possible. She currently works as an office assistant for Theatre Saskatchewan Inc.</p>
@@ -60,7 +60,7 @@ permalink: /who/
     <div class="bio-title-box"><a  class="bio-title" ><h3 >Rachel Popa, Web Developer</h3></a></div>
     <hr class="bio-bar">
     <div class="bio-avatar left">
-        <img src="/assets/img/rachel.jpg">
+        <img src="http://gdurl.com/mxQC">
     </div>
     <div class="bio-content right selected">
         <p>Rachel Popa has worked as a software developer in Regina, Saskatchewan for five years. She obtained her Bachelor of Science in Computer Science from the University of Regina in 2013. Currently, she is employed by Farm Credit Canada where she works on their lending applications. Rachel’s professional interests include mobile app development, AR in real-world applications, and home automation.</p>
