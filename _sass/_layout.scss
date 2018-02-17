@@ -359,6 +359,10 @@
     cursor: text;
 }
 
+.bio-link {
+    color: $latte-color;
+}
+
 @include media-query($on-palm) {
     .bio-avatar img:hover, .bio-avatar img:active {
         box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.459);
