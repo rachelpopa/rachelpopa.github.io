@@ -83,9 +83,10 @@
         top: 0px;
         right: $spacing-unit;
         border-radius: 5px;
-        text-align: right;  
+        text-align: left;  
         color: $brand-color;
-        padding-top: 0px;
+        padding-top: 0px;    
+        // padding-right: 19px;
 
         .hamburger.hamburger--spring.menu-icon {
             position: relative;
@@ -94,6 +95,7 @@
             line-height: 0;
             margin-top: 15px;
             padding-right: 0px;
+            margin-right: 0px;
             text-align: center;  
             color: $brand-color;
             &:focus {outline:0;};
@@ -106,17 +108,18 @@
             clear: both;
             display: none;
             height:100vh;
-            background-color:rgba(39,47,1,0.1);
+            background-color:rgba(39,47,1,0.7);
             padding-right: 25px;
-            margin-right:-45px;
+            margin-right:-25px;
             top: -50;
-            padding-top: 80px;
+            padding-top: 80px;        
             font-size: 20px;
         }
 
         .page-link {
             display: block;
             padding: 5px 10px;
+            color: $latte-color-light;
 
             &:not(:last-child) {
                 margin-right: 0;
