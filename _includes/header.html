@@ -13,8 +13,9 @@
         </span>
       </button>
 
+      {% assign sorted_pages = site.pages | sort:"order" %}
       <div class="trigger">
-        {% for my_page in site.pages %}
+        {% for my_page in sorted_pages %}
           {% if my_page.menutitle %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.menutitle }}</a>
           {% endif %}

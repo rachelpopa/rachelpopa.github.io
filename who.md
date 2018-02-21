@@ -3,6 +3,7 @@ layout: page
 title: Who We Are
 menutitle: Who
 permalink: /who/
+order: 1
 ---
 
 <div class="bio-container">

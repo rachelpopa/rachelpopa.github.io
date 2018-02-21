@@ -3,6 +3,7 @@ layout: page
 title: About The Zine
 menutitle: About
 permalink: /about/
+order: 0
 ---
 
 <p>Deja-Visite is created, maintained, and written by a group of women from Western Canada, specifically the Prairies.  Each has their own passions, their own drives, and their own interests. Each wants to explore, share, and create something new and interesting, to tickle your funny bone, or make you think about something in a new way.  It is created with the goal of sharing and exploring information, knowledge, and experiences with a unique twist and fresh perspective.</p>
