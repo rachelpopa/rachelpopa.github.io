@@ -71,6 +71,11 @@ order: 2
   </figcaption>
 </figure>
 
-
-
-
+<figure class="feedback">
+  <figcaption>
+    <blockquote>
+      <p>Nice work! I would take some kefir grains when you have extra.</p>
+    </blockquote>
+    <h3>Bridget</h3>
+  </figcaption>
+</figure>
