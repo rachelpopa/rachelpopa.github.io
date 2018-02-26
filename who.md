@@ -69,3 +69,10 @@ order: 1
         <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two little dogs. She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer. Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.</p>
     </div>
 </div>
+
+<div class="bio-container">
+    <hr class="bio-bar">
+    <div>
+        <div class="bio-title-box"><a  class="bio-title" ><h3 >Special thanks to Jon Seidle for editing our content.</h3></a></div>
+    <div>
+</div>
