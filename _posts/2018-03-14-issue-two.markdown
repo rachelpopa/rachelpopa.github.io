@@ -1,0 +1,9 @@
+---
+title:  "Mar 2018"
+cover: "http://gdurl.com/VLrv"
+date:   2018-03-14 00:00:00 -0600
+categories: Mar 2018
+layout: pdf
+permalink: /zine/mar2018/
+---
+<iframe src="https://goo.gl/xwLVJu" width="100%" height="100%"></iframe>

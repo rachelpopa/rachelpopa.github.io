@@ -17,6 +17,7 @@ url: "http://dejavisite.ca/" # the base hostname & protocol for your site
 twitter_username: dejavisite_zine
 facebook_username:  dejavisitezine
 instagram_username:  dejavisite_zine
+future: true
 
 twitter:
   username: dejavisite_zine
