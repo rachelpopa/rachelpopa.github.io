@@ -57,13 +57,27 @@ order: 1
     </div>
 </div>
 
+
+<div class="bio-container">
+    <div class="bio-title-box"><a  class="bio-title" ><h3 >Victoria Koops, Writer</h3></a></div>
+    <hr class="bio-bar">
+    <div class="bio-avatar left">
+        <img src="https://gdurl.com/XYZB">
+    </div>
+    <div class="bio-content right selected">
+        <p>Victoria Koops is an emerging writer living in Southeast Saskatchewan, Canada. She primarily writes Young Adult fiction, dealing with all things nerdy and geeky. Her latest work-in-progress, <i>In Real Life</i>, is a coming of age story about two teenagers finding their place in the world through Role Playing Games (RPGs), but beneath themes of gaming, identity, and self-discovery, the reader is also led to explore major societal issues like homophobia, sexuality, and family.</p>
+        <p>When Victoria isn't writing about nerd life, she's out there living it. She loves all things Bioware, Star Wars, Tolkien, and Harry Potter. She's also a fan of gardening, honeybees, and of course, a good book.</p>
+        <p>Victoria is excited to be striking out with the Deja-Visite team and hopes to expand her writing to include magazine articles and meaningful prairie short stories. For more information, please check out Victoria’s <a class="bio-link" href="https://www.facebook.com/victoriakoopswrites/">Facebook</a>, <a class="bio-link" href="https://www.instagram.com/victoriakoopswrites/">Instagram</a>, and <a class="bio-link" href="https://twitter.com/victoriakoops">Twitter</a>. She can also be reached at victoria.koops@gmail.com.</p>
+    </div>
+</div>
+
 <div class="bio-container">
     <div class="bio-title-box"><a  class="bio-title" ><h3 >Rachel Popa, Web Developer</h3></a></div>
     <hr class="bio-bar">
-    <div class="bio-avatar left">
+    <div class="bio-avatar right">
         <img src="http://gdurl.com/mxQC">
     </div>
-    <div class="bio-content right selected">
+    <div class="bio-content left selected">
         <p>Rachel Popa has worked as a software developer in Regina, Saskatchewan for five years. She obtained her Bachelor of Science in Computer Science from the University of Regina in 2013. Currently, she is employed by Farm Credit Canada where she works on their lending applications. Rachel’s professional interests include mobile app development, AR in real-world applications, and home automation.</p>
         <p>In writing for Deja-Visite she hopes to promote software development in Saskatchewan by showcasing products that are made within the province. Additionally, Rachel’s work will focus on self-guided learning and professional growth. She also maintains the website.</p>
         <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two little dogs. She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer. Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.</p>
