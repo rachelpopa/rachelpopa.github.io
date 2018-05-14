@@ -72,12 +72,26 @@ order: 1
 </div>
 
 <div class="bio-container">
-    <div class="bio-title-box"><a  class="bio-title" ><h3 >Rachel Popa, Web Developer</h3></a></div>
+    <div class="bio-title-box"><a  class="bio-title" ><h3 >Kerri Desgagné, Writer</h3></a></div>
     <hr class="bio-bar">
     <div class="bio-avatar right">
-        <img src="http://gdurl.com/mxQC">
+        <img src="http://gdurl.com/HE6H">
     </div>
     <div class="bio-content left selected">
+        <p>Kerri Desgagné has been in the food industry for seven years, and is currently working on obtaining her Red Seal in the culinary arts. On top of that, she is also a mom of two wonderful boys, and is making sure that their bellies are filled with delicious food to fuel them.</p>
+        <p>She is always thinking of some new recipe to try and tinker with food, using her family as guinea pigs. They have not complained about trying her unique creations yet, but still provide plenty of honest feedback. When she finds time, she likes to relax with baking, and tries to get the kids involved as much as possible.</p>
+        <p>Kerri has also earned a certification in fashion design, which gives her an eye for colour and helps to provide inspiration when decorating desserts.</p>
+        <p>Kerri is excited about contributing tasty recipes to Deja-Viste and working with the team. She is looking forward to bringing what she has learned to the magazine and its readers.</p>
+    </div>
+</div>
+
+<div class="bio-container">
+    <div class="bio-title-box"><a  class="bio-title" ><h3 >Rachel Popa, Web Developer</h3></a></div>
+    <hr class="bio-bar">
+    <div class="bio-avatar left">
+        <img src="http://gdurl.com/mxQC">
+    </div>
+    <div class="bio-content right selected">
         <p>Rachel Popa has worked as a software developer in Regina, Saskatchewan for five years. She obtained her Bachelor of Science in Computer Science from the University of Regina in 2013. Currently, she is employed by Farm Credit Canada where she works on their lending applications. Rachel’s professional interests include mobile app development, AR in real-world applications, and home automation.</p>
         <p>In writing for Deja-Visite she hopes to promote software development in Saskatchewan by showcasing products that are made within the province. Additionally, Rachel’s work will focus on self-guided learning and professional growth. She also maintains the website.</p>
         <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two little dogs. She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer. Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.</p>
