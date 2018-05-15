@@ -86,21 +86,29 @@ order: 1
 </div>
 
 <div class="bio-container">
-    <div class="bio-title-box"><a  class="bio-title" ><h3 >Rachel Popa, Web Developer</h3></a></div>
+    <div class="bio-title-box"><a  class="bio-title" ><h3 >Jon Seidle, Editor</h3></a></div>
     <hr class="bio-bar">
     <div class="bio-avatar left">
-        <img src="http://gdurl.com/mxQC">
+        <img src="http://gdurl.com/mrz5">
     </div>
     <div class="bio-content right selected">
-        <p>Rachel Popa has worked as a software developer in Regina, Saskatchewan for five years. She obtained her Bachelor of Science in Computer Science from the University of Regina in 2013. Currently, she is employed by Farm Credit Canada where she works on their lending applications. Rachel’s professional interests include mobile app development, AR in real-world applications, and home automation.</p>
-        <p>In writing for Deja-Visite she hopes to promote software development in Saskatchewan by showcasing products that are made within the province. Additionally, Rachel’s work will focus on self-guided learning and professional growth. She also maintains the website.</p>
-        <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two little dogs. She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer. Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.</p>
+        <p>Jonathan Seidle holds two bachelor’s degrees: in Psychology and Computer Science, as well as a minor in French. For the past six years, he has been employed as a software developer, currently at ISM Canada in Regina, Saskatchewan.</p>
+        <p>Between degrees, Jonathan spent seven months working as an English Language Assistant at a high school in France. He used his off hours to tour the country and learn as much French as possible, and still strives to practice the language when an opportunity presents itself.</p>
+        <p>Jonathan lends a hand to the Deja-Visite team by proofreading the final drafts before they are published. Having a fresh set of eyes look at the articles can be useful to achieve a polished product.</p>
+        <p>Much like his spouse Ariadne, Jonathan also sings with the Halcyon Chamber Choir and loves musical theatre, even playing drums for productions in Regina when the opportunity arises. He also likes to hit the gym, or just relax with some Netflix or casual gaming.
+</p>
     </div>
 </div>
 
 <div class="bio-container">
+    <div class="bio-title-box"><a  class="bio-title" ><h3 >Rachel Popa, Web Developer</h3></a></div>
     <hr class="bio-bar">
-    <div>
-        <div class="bio-title-box"><a  class="bio-title" ><h3 >Special thanks to Jon Seidle for editing our content.</h3></a></div>
-    <div>
+    <div class="bio-avatar right">
+        <img src="http://gdurl.com/mxQC">
+    </div>
+    <div class="bio-content left selected">
+        <p>Rachel Popa has worked as a software developer in Regina, Saskatchewan for five years. She obtained her Bachelor of Science in Computer Science from the University of Regina in 2013. Currently, she is employed by Farm Credit Canada where she works on their lending applications. Rachel’s professional interests include mobile app development, AR in real-world applications, and home automation.</p>
+        <p>In writing for Deja-Visite she hopes to promote software development in Saskatchewan by showcasing products that are made within the province. Additionally, Rachel’s work will focus on self-guided learning and professional growth. She also maintains the website.</p>
+        <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two little dogs. She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer. Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.</p>
+    </div>
 </div>
