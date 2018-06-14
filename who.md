@@ -101,12 +101,23 @@ order: 1
 </div>
 
 <div class="bio-container">
-    <div class="bio-title-box"><a  class="bio-title" ><h3 >Rachel Popa, Web Developer</h3></a></div>
+    <div class="bio-title-box"><a  class="bio-title" ><h3 >Randene Shiplett, Writer</h3></a></div>
     <hr class="bio-bar">
     <div class="bio-avatar right">
-        <img src="http://gdurl.com/mxQC">
+        <img src="http://gdurl.com/9XVF">
     </div>
     <div class="bio-content left selected">
+        <p>Randene Shiplett is your classic hopeless romantic gal born in Saskatchewan, now living out in Nova Scotia, who enjoys stargazing and long walks on the beach. She is passionate about recycling, water conservation, and protecting the environment, so those long walks are accompanied by a kit of her own making of garbage bags, protective gloves, and a long pole for getting to hard to reach trash that has gone astray. Her days are a mix of road trips looking for interesting people, places, and things to photograph, painting those photos or making up colourful abstracts, reading and writing by the ocean, and trying to remember to eat or drink something occasionally. Her nights are divided between open mic nights performing piano and comedy, generally being the only hearing person throwing darts with a Deaf Darts league, and working for a not-for-profit that transitions people from mental institutions to independent living. Randene enjoys meeting people and getting to know them in English, French, and American Sign Language (with a bit of a Maritime Sign Language accent). She is currently trying to learn Portuguese and Spanish with dreams of learning 7 others.</p>
+    </div>
+</div>
+
+<div class="bio-container">
+    <div class="bio-title-box"><a  class="bio-title" ><h3 >Rachel Popa, Web Developer</h3></a></div>
+    <hr class="bio-bar">
+    <div class="bio-avatar left">
+        <img src="http://gdurl.com/mxQC">
+    </div>
+    <div class="bio-content right selected">
         <p>Rachel Popa has worked as a software developer in Regina, Saskatchewan for five years. She obtained her Bachelor of Science in Computer Science from the University of Regina in 2013. Currently, she is employed by Farm Credit Canada where she works on their lending applications. Rachel’s professional interests include mobile app development, AR in real-world applications, and home automation.</p>
         <p>In writing for Deja-Visite she hopes to promote software development in Saskatchewan by showcasing products that are made within the province. Additionally, Rachel’s work will focus on self-guided learning and professional growth. She also maintains the website.</p>
         <p>When she is away from her laptop Rachel enjoys spending time with her fiancé and two little dogs. She loves playing board games with her friends, as well as camping, hiking, and fishing in the summer. Rachel also enjoys attending local fine arts events and kicking back with a good sci-fi novel.</p>
