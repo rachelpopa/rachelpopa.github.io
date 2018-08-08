@@ -1,0 +1,9 @@
+---
+title:  "July-August 2018"
+cover: "http://gdurl.com/WtEW"
+date:   2018-08-08 00:00:00 -0600
+categories: July-August 2018
+layout: pdf
+permalink: /zine/julyaug2018/
+file: pdf/Deja-Visite_JulyAugust2018.pdf
+---
