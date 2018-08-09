@@ -10,8 +10,7 @@ title: Deja-Visite
 tagline: Prairie passions with a fresh perspective
 email: info@dejavisite.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Deja-Visite is a monthly zine with a focus on personal, professional, and 
-  scholarly interest pieces by women from Western Canada.
+  Independent online magazine. Saskatchewan writers. Local perspectives.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dejavisite.ca/" # the base hostname & protocol for your site
 twitter_username: dejavisite_zine
