@@ -32,7 +32,7 @@ order: 1
 </div>
 
 <div class="bio-container">
-    <div class="bio-title-box"><a  class="bio-title" ><h3 >Jessica Mitten-Moore, Communications Director</h3></a></div>
+    <div class="bio-title-box"><a  class="bio-title" ><h3 >Jessica Mitten-Moore, Writer</h3></a></div>
     <hr class="bio-bar">
     <div class="bio-avatar left">
         <img src="http://gdurl.com/GoRr">
