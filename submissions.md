@@ -13,8 +13,10 @@ Have you ever wanted to try your hand at writing? Do you have a story, poem, rec
 Deja-visite is a free online magazine and is currently looking for submissions of articles. For articles submitted and accepted, we offer in-house editing and review and work collaboratively with authors/writers and creatives to bring their work through the stages.
 </p>
 
-<p>We are free, therefore we don't pay our writers/contributors, we offer experience and a place to bounce and try out new ideas (and buttons, we do like buttons). It is a great way to try your hand at something as a casual hobby and to share your work with others. All contributors retain all rights to their work and there is no hold if they also publish it on personal blogs or web pages, and receive credit for all work they do.
+<p>
+We are free, therefore we don't pay our writers/contributors, we offer experience and a place to bounce and try out new ideas (and buttons, we do like buttons). It is a great way to try your hand at something as a casual hobby and to share your work with others. All contributors retain all rights to their work and there is no hold if they also publish it on personal blogs or web pages, and receive credit for all work they do.
 </p>
+
 <p>
 We publish on a bi-monthly schedule, and usually run 30-60 pages per issue.
 </p>
