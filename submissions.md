@@ -43,7 +43,7 @@ We publish on a bi-monthly schedule, and usually run 30-60 pages per issue.
 </ul>
 
 <h4>Submission deadlines for upcoming issue:</h4>
-<p><i>Friday March 29th by 5:00 PM.</i></p>
+<p><i>Friday May 31st by 5:00 PM.</i></p>
 
 <p>Send all submission to <a href="mailto:dejavisite.group@gmail.com">dejavisite.group@gmail.com</a> with the subject line “Submission to Deja-Visite: Your Name”. Please include your name, the title and style of your submission, a little bit about your interests/self, and a file in .doc or .odt format. Within 24 hours of sending your e-mail you will receive a response to verify we have received your submission, and within a few days we’ll contact you with further information.</p>
 
